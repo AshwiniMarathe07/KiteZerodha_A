@@ -1,10 +1,10 @@
 package Sample1;
 
-public class Shree
+public class Shree17
 {
 	public static void main(String[] args) 
 	{
-		//Pattern Program 
+		//Pattern Program    
 		//*
 		//**
 		//***
