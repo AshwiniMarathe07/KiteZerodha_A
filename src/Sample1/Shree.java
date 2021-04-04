@@ -4,7 +4,7 @@ public class Shree
 {
 	public static void main(String[] args) 
 	{
-		//Star Pattern Program 
+		//Pattern Program 
 		//*
 		//**
 		//***
